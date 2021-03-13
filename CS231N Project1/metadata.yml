@@ -1,0 +1,12 @@
+---
+:id: 35660775
+:submitters:
+- :name: Wu Pei-Chen
+  :email: pcwu1023@stanford.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-23 04:52:48.632955000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-22 21:52:48.632955000 Z
+:status: processed
+:score: 73.0
